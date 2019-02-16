@@ -1,0 +1,16 @@
+{
+  "name": "iot",
+  "version": "1.0.0",
+  "description": "Minha api IoT",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Santos Vasconcelos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "johnny-five": "^1.0.0",
+    "mqtt": "^2.18.8"
+  }
+}
